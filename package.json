@@ -1,7 +1,7 @@
 {
-  "name": "registro",
+  "name": "ejercicio-login",
   "version": "1.0.0",
-  "description": "",
+  "description": "ingreso usuario y clave",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
